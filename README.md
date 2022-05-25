@@ -1,5 +1,5 @@
 <h2> Hi, I'm Grzesiek!</h2>
-<h5>My name is Grzesiek Zyśk and I'm a Data Scientist.<br>I'm from Poland, living in Warsaw and currently working at Orange.</h5>
+<h4>My name is Grzesiek Zyśk and I'm a Data Scientist.<br>I'm from Poland, living in Warsaw and currently working at Orange.</h4>
 
 <a href="https://twitter.com/grzesiek_zysk"><img src="https://img.shields.io/badge/grzesiekzysk-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/zysk/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
