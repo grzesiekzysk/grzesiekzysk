@@ -13,9 +13,3 @@
 
 #### Frameworks & Libraries :
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/Matplotlib-e9e9e9?style=for-the-badge&logo=plotly&logoColor=11557c"> <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/Flask-1c1c1c?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/Dash-e9e9e9?style=for-the-badge&logo=plotly&logoColor=11557c">
-
-#### Tools:
-<img src="https://img.shields.io/badge/jupyter-1c1c1c?style=for-the-badge&logo=jupyter&logoColor=F37626?Color=F37626"> <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
-
-#### Operating systems:
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
