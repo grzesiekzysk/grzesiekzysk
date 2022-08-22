@@ -3,7 +3,7 @@
 
 <a href="https://twitter.com/grzesiekzysk"><img src="https://img.shields.io/badge/grzesiekzysk-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/zysk/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.kaggle.com/grzesiekzysk"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
+<a href="https://www.kaggle.com/grzesiekzysk"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=black"></a>
 <a href="mailto:grzesiek.zysk@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 
 
